@@ -1,0 +1,5 @@
+gigachat
+pandas
+selenium
+matplotlib
+numpy
